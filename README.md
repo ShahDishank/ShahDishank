@@ -1,4 +1,4 @@
-[![MasterHead](https://flyclipart.com/thumb2/world-web-builder-web-development-company-unique-and-individual-172140.png)]
+![MasterHead](https://flyclipart.com/thumb2/world-web-builder-web-development-company-unique-and-individual-172140.png)
 <h1 align="center">Hi 👋, I'm Dishank Shah</h1>
 <h3 align="center">A Skilled Web Developer & Web Designer from India</h3>
 <img align="right" alt="Programming" width="400" src="https://i.gifer.com/QDyD.gif">
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dishank_2404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dishank_2404" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dishankshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishankshah" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/DishankShah](https://www.linkedin.com/in/dishank-shah-826528237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishankshah" height="30" width="40" /></a>
 <a href="https://fb.com/dishank_2404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dishank_2404" height="30" width="40" /></a>
 <a href="https://instagram.com/dishank_2404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishank_2404" height="30" width="40" /></a>
 </p>
