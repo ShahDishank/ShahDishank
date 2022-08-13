@@ -1,11 +1,9 @@
-![MasterHead](https://flyclipart.com/thumb2/world-web-builder-web-development-company-unique-and-individual-172140.png)
+![MasterHead](https://www.kindpng.com/picc/m/557-5574265_web-design-web-development-png-transparent-png.png)
 <h1 align="center">Hi 👋, I'm Dishank Shah</h1>
 <h3 align="center">A Skilled Web Developer & Web Designer from India</h3>
-<img align="right" alt="Programming" width="400" src="https://i.gifer.com/QDyD.gif">
+<img align="right" alt="Programming" width="400" src="https://1.bp.blogspot.com/-y3U0rI_qsCI/XqBGRYOYljI/AAAAAAAAoxo/sCiVQJiNyuoHrk6VENcK9rvvlQNxXSDVgCLcBGAsYHQ/s500/clipartfest.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdishank&label=Profile%20views&color=0e75b6&style=flat" alt="shahdishank" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahdishank" alt="shahdishank" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dishank_2404" target="blank"><img src="https://img.shields.io/twitter/follow/dishank_2404?logo=twitter&style=for-the-badge" alt="dishank_2404" /></a> </p>
 
