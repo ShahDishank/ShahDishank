@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**ShahDishank/ShahDishank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dishank! 👋
 
-Here are some ideas to get you started:
+I'm an aspiring Machine Learning Engineer, currently doing BE in Computer Science Engineering (2025) at Maharaja Sayajirao University Vadodara.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishank-shah-826528237/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dishank_2404)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 
+👩‍💻 I'm currently working on...
+
+**Neuron**: An AI bot to learn python
+
+📫 How to reach me shahdishank24@gmail.com
+## 🛠 Skills
+
+**Languages**: C, C++, Java (beginner), Python, MySQL (beginner)
+
+**Machine Learning and Deep Learning Libraries**: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow
+
+**Web Development (beginner)**: HTML, CSS, Bootstrap, JavaScript, Flask
+
+**Tools & Platforms**: Git, GitHub, Streamlit
+
+**Code Editors and IDEs**: VS Code, Sublime Text, PyCharm, Jupyter Notebook, Intellij IDEA
